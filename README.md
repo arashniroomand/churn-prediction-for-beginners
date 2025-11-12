@@ -69,6 +69,14 @@ Each cell in the notebook includes clear explanations to help you understand how
 4. Run the notebook step by step. Each section explains a key part of the process, from loading data to evaluating and saving the final model.
 
 ---
+## 📊 Dataset
+
+The project uses the **Churn_Modelling.csv** dataset, which you can download from Kaggle:
+
+🔗 [Download from Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
+
+After downloading, place the file inside the `src/` folder before running the notebook.
+
 
 ## 💡 What You’ll Learn
 
